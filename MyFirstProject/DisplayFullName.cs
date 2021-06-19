@@ -3,7 +3,7 @@ using MyUtilities;
 
 namespace MyFirstProject
 {
-    class Program
+    class DisplayFullName
     {
         static void Main(string[] args)
         {
