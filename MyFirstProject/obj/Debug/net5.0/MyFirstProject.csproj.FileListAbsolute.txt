@@ -1,0 +1,15 @@
+/Users/np351100/apps/DotNetProjects/MyFirstProject/MyFirstProject/bin/Debug/net5.0/MyFirstProject.deps.json
+/Users/np351100/apps/DotNetProjects/MyFirstProject/MyFirstProject/bin/Debug/net5.0/MyFirstProject.runtimeconfig.json
+/Users/np351100/apps/DotNetProjects/MyFirstProject/MyFirstProject/bin/Debug/net5.0/MyFirstProject.runtimeconfig.dev.json
+/Users/np351100/apps/DotNetProjects/MyFirstProject/MyFirstProject/bin/Debug/net5.0/MyFirstProject.dll
+/Users/np351100/apps/DotNetProjects/MyFirstProject/MyFirstProject/bin/Debug/net5.0/ref/MyFirstProject.dll
+/Users/np351100/apps/DotNetProjects/MyFirstProject/MyFirstProject/bin/Debug/net5.0/MyFirstProject.pdb
+/Users/np351100/apps/DotNetProjects/MyFirstProject/MyFirstProject/obj/Debug/net5.0/MyFirstProject.csproj.AssemblyReference.cache
+/Users/np351100/apps/DotNetProjects/MyFirstProject/MyFirstProject/obj/Debug/net5.0/MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/np351100/apps/DotNetProjects/MyFirstProject/MyFirstProject/obj/Debug/net5.0/MyFirstProject.AssemblyInfoInputs.cache
+/Users/np351100/apps/DotNetProjects/MyFirstProject/MyFirstProject/obj/Debug/net5.0/MyFirstProject.AssemblyInfo.cs
+/Users/np351100/apps/DotNetProjects/MyFirstProject/MyFirstProject/obj/Debug/net5.0/MyFirstProject.csproj.CoreCompileInputs.cache
+/Users/np351100/apps/DotNetProjects/MyFirstProject/MyFirstProject/obj/Debug/net5.0/MyFirstProject.dll
+/Users/np351100/apps/DotNetProjects/MyFirstProject/MyFirstProject/obj/Debug/net5.0/ref/MyFirstProject.dll
+/Users/np351100/apps/DotNetProjects/MyFirstProject/MyFirstProject/obj/Debug/net5.0/MyFirstProject.pdb
+/Users/np351100/apps/DotNetProjects/MyFirstProject/MyFirstProject/obj/Debug/net5.0/MyFirstProject.genruntimeconfig.cache
