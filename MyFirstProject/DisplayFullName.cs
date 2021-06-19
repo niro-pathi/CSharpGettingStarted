@@ -1,7 +1,7 @@
 ﻿using System;
 using MyUtilities;
 
-namespace MyFirstProject
+namespace DisplayName
 {
     class DisplayFullName
     {
